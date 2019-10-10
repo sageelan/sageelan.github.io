@@ -1,0 +1,69 @@
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    font-family: 'Ropa Sans', sans-serif;
+    font-size: 17px;
+  }
+  
+  
+  .titlefont{
+  /* font-family: 'Ubuntu', sans-serif; */
+  font-family: 'Teko', sans-serif;
+  }
+  
+  #myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+  }
+  
+  .content {
+    position: fixed;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    min-width: 100%;
+    min-height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20rem;
+    transform: translateX(0%);
+    border-radius: 10px;
+    
+  }
+  
+  #myBtn {
+    width: 200px;
+    font-size: 18px;
+    padding: 10px;
+    border: none;
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  #myBtn:hover {
+    background: #ddd;
+    color: black;
+  }
+  
+  body {
+    /* background-color:#ce3635; */
+    text-align: center;
+    color:#fff;
+    padding-top:10em;
+  }
+  
+  * { color:#fff; text-decoration: none;}
+
+  .btn-light {
+    transform: translateY(1.2rem);
+}
+/* switch- follow me */
